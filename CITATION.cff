@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "icp-nonlocal-kinetics: deterministic nonlocal electron kinetics solver for low-pressure inductively coupled RF discharges"
+version: 1.0.0
+date-released: 2026-10-12
+license: MIT
+authors:
+  - family-names: Tazhimov
+    given-names: T. A.
+  - family-names: Sharden
+    given-names: A. R.
+  - family-names: Zheltukhin
+    given-names: V. S.
+    affiliation: "Kazan Federal University"
+keywords:
+  - electron Boltzmann equation
+  - inductively coupled plasma
+  - nonlocal electron kinetics
+  - total energy formulation
+  - harmonic balance
+  - discrete ordinates
+  - Monte Carlo verification
